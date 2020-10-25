@@ -28,7 +28,7 @@ more to come...
 |Python Programmer | Python | 62 hours  | 16 Courses | ![Progress](https://progress-bar.dev/100/) | <p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/af1f4562aae93d2ce7390b134b59f9cef3e1740e) 
 | Data Scientist with Python | Python |88 hours | 23 Courses |![Progress](https://progress-bar.dev/100/) |<p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/8ed41ec8958623fa21f32eacaf327c10359b78c7)
 | Data Analyst | Python | 60 hours | 16 Courses | ![Progress](https://progress-bar.dev/100/) |<p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/f21d33aab7dff2f5f6201e05b2abe41a65a29ac1)
-|Machine Learning Scientist with Python|Python | 93 hours | 23 Courses |<p align="center">![Progress](https://progress-bar.dev/66/) |[:x:]
+|Machine Learning Scientist with Python|Python | 93 hours | 23 Courses |<p align="center">![Progress](https://progress-bar.dev/62/) |[:x:]
 |Data Engineer with Python | Python | 95 hours | 25 Courses |<p align="center"> ![Progress](https://progress-bar.dev/66/) | [:x:]
 
 
