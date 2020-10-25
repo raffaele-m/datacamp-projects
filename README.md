@@ -36,9 +36,9 @@ more to come...
 
 |Course | Certificate|
 | -- |--|
-|Introduction to Power BI | [ :white_check_mark:](https://www.datacamp.com/statement-of-accomplishment/course/8686348579ae97dae60983d1a6a643c9b3d0bb7d)
-| Introduction to Tableau |[ :white_check_mark:](https://www.datacamp.com/statement-of-accomplishment/course/146f0901317fa2f315cac5063c2ef6f1f09af520)
-| Introduction to Bash Scripting | [:white_check_mark:](https://www.datacamp.com/statement-of-accomplishment/course/fbf40745ff80139d75d837c7f76c6623c4f66222)
-|Data Processing in Shell |[:white_check_mark:](https://www.datacamp.com/statement-of-accomplishment/course/9d2595d31017b3b698d2b700c6942f14dbea1814)
+|Introduction to Power BI |<p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/course/8686348579ae97dae60983d1a6a643c9b3d0bb7d)
+| Introduction to Tableau |<p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/course/146f0901317fa2f315cac5063c2ef6f1f09af520)
+| Introduction to Bash Scripting |<p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/course/fbf40745ff80139d75d837c7f76c6623c4f66222)
+|Data Processing in Shell |<p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/course/9d2595d31017b3b698d2b700c6942f14dbea1814)
 and much more.... 
 
