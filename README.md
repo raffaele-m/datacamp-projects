@@ -1,8 +1,8 @@
 # datacamp-projects
 All my jupyter notebook from datacamp courses.
 
-| --- |----|
-|Draw Flowers Using Mathematics | ok |
+
+	Draw Flowers Using Mathematics 
 	A Visual History of Nobel Prize Winners/
 	Bad passwords and the NIST guidelines/
 	Dr. Semmelweis and the Discovery of Handwashing/
