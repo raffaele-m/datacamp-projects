@@ -23,8 +23,8 @@ more to come...
 
 | Track | Language |Hours | N. Courses | Progress | Certificate |
 | -- |--|--|--| --| --|
-| Data Analyst | R | 64 hours | 19 Courses | ![Progress](https://progress-bar.dev/100/) |<p align="center">[ :heavy__check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/936725edc7ae4783675df4f9d39e19400e2aba55)
-|Quantitative Analyst | R |65 Hours | 15 Courses | ![Progress](https://progress-bar.dev/100/) |<p align="center"> [:heavy__check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/34b5bb2c3916796578a1ca316f5703702ed7f654)
+| Data Analyst | R | 64 hours | 19 Courses | ![Progress](https://progress-bar.dev/100/) |<p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/936725edc7ae4783675df4f9d39e19400e2aba55)
+|Quantitative Analyst | R |65 Hours | 15 Courses | ![Progress](https://progress-bar.dev/100/) |<p align="center"> [:heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/34b5bb2c3916796578a1ca316f5703702ed7f654)
 |Python Programmer | Python | 62 hours  | 16 Courses | ![Progress](https://progress-bar.dev/100/) | <p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/af1f4562aae93d2ce7390b134b59f9cef3e1740e) 
 | Data Scientist with Python | Python |88 hours | 23 Courses |![Progress](https://progress-bar.dev/100/) |<p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/8ed41ec8958623fa21f32eacaf327c10359b78c7)
 | Data Analyst | Python | 60 hours | 16 Courses | ![Progress](https://progress-bar.dev/100/) |<p align="center">[ :heavy_check_mark:](https://www.datacamp.com/statement-of-accomplishment/track/f21d33aab7dff2f5f6201e05b2abe41a65a29ac1)
